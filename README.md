@@ -1,4 +1,4 @@
-# Snake AI: Deep Q-Learning Implementation
+# Snake-Reinforcement-Learning
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 ![Pygame](https://img.shields.io/badge/Pygame-2.0%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-*A sophisticated Deep Q-Learning implementation that trains an AI agent to master the classic Snake game*
+*Master the classic Snake game with Deep Q-Learning AI*
 
 [![Demo](https://img.shields.io/badge/Demo-View-red)](#demo)
 [![Documentation](https://img.shields.io/badge/Docs-Read-blue)](#documentation)
@@ -17,7 +17,7 @@
 
 ## Overview
 
-This project demonstrates advanced reinforcement learning techniques through a Deep Q-Network (DQN) that learns to play Snake from scratch. The AI agent develops intelligent strategies through experience replay, epsilon-greedy exploration, and neural network-based function approximation.
+This project implements a sophisticated Deep Q-Network (DQN) that learns to play Snake from scratch using reinforcement learning. Watch as the AI evolves from random movements to strategic gameplay through experience replay and neural network training.
 
 ## Features
 
@@ -33,8 +33,8 @@ This project demonstrates advanced reinforcement learning techniques through a D
 
 ```bash
 # Clone and setup
-git clone <repository-url>
-cd snake-ai
+git clone https://github.com/anuragsathe/Snake-Reinforcement-Learning.git
+cd Snake-Reinforcement-Learning
 python -m venv venv
 venv\Scripts\activate  # Windows
 pip install -r requirements.txt
@@ -67,7 +67,7 @@ Watch the trained agent demonstrate advanced strategies:
 ## Project Structure
 
 ```
-snake-ai/
+Snake-Reinforcement-Learning/
 |
 +-- src/                       # Source code
 |   +-- ai/                   # AI components
@@ -111,8 +111,8 @@ snake-ai/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd snake-ai
+   git clone https://github.com/anuragsathe/Snake-Reinforcement-Learning.git
+   cd Snake-Reinforcement-Learning
    ```
 
 2. **Create virtual environment**
@@ -363,7 +363,7 @@ We welcome contributions! Here's how to get started:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
@@ -388,9 +388,9 @@ If you use this project in your research, please cite:
 ```bibtex
 @misc{snake-ai-dqn,
   title={Snake AI: Deep Q-Learning Implementation},
-  author={Your Name},
+  author={Anurag Sathe},
   year={2024},
-  url={https://github.com/yourusername/snake-ai}
+  url={https://github.com/anuragsathe/Snake-Reinforcement-Learning}
 }
 ```
 
@@ -398,12 +398,10 @@ If you use this project in your research, please cite:
 
 <div align="center">
 
-**[![Star](https://img.shields.io/github/stars/yourusername/snake-ai.svg?style=social&label=Star)](https://github.com/yourusername/snake-ai)**
-**[![Fork](https://img.shields.io/github/forks/yourusername/snake-ai.svg?style=social&label=Fork)](https://github.com/yourusername/snake-ai/fork)**
-**[![Watch](https://img.shields.io/github/watchers/yourusername/snake-ai.svg?style=social&label=Watch)](https://github.com/yourusername/snake-ai)**
+**[![Star](https://img.shields.io/github/stars/anuragsathe/Snake-Reinforcement-Learning.svg?style=social&label=Star)](https://github.com/anuragsathe/Snake-Reinforcement-Learning)**
+**[![Fork](https://img.shields.io/github/forks/anuragsathe/Snake-Reinforcement-Learning.svg?style=social&label=Fork)](https://github.com/anuragsathe/Snake-Reinforcement-Learning/fork)**
+**[![Watch](https://img.shields.io/github/watchers/anuragsathe/Snake-Reinforcement-Learning.svg?style=social&label=Watch)](https://github.com/anuragsathe/Snake-Reinforcement-Learning)**
 
 *Happy Training! Watch your AI evolve from random movements to strategic gameplay.* 
 
 </div>
-#   S n a k e - R e i n f o r c e m e n t - L e a r n i n g  
- 
